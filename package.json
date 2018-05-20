@@ -1,0 +1,28 @@
+{
+  "name": "pixi-js-test",
+  "version": "1.0.0",
+  "description": "HTML5 Game Pixi test",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taras Makota",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^8.0.53",
+    "@types/pixi.js": "^4.6.0",
+    "event-stream": "^3.3.4",
+    "gulp": "3.9.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-open": "^3.0.1",
+    "gulp-typescript": "3.2.3",
+    "gulp-watch": "^5.0.0",
+    "ts-loader": "^3.1.1",
+    "typescript": "2.6.1",
+    "webpack": "^3.8.1",
+    "webpack-stream": "^4.0.0"
+  },
+  "dependencies": {
+    "pixi.js": "^4.6.1"
+  }
+}

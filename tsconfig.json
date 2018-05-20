@@ -1,0 +1,13 @@
+{
+    "include": [
+        "src"
+    ],
+    "exclude": [
+        "views"
+    ],
+    "compilerOptions": {
+        "noImplicitAny": false,
+        "target": "es5",
+        "sourceMap": true
+    }
+}
